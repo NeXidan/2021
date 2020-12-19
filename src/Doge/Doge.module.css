@@ -1,0 +1,14 @@
+.doge {
+    background: url('./Doge.png') no-repeat;
+    background-size: contain;
+    width: 170px;
+    height: 231px;
+    position: absolute;
+}
+
+.eyes {
+    position: absolute;
+    top: 39px;
+    left: 54px;
+    transform: rotate(14deg);
+}

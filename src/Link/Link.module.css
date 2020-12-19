@@ -1,0 +1,26 @@
+.wrapper {
+    display: block;
+    flex-direction: column;
+    background: #4aa892;
+    color: #fff !important;
+    text-decoration: none;
+    text-align: center;
+    padding: 16px;
+    margin: 60px auto 0;
+    width: 340px;
+    font-size: 30px;
+    border-radius: 16px;
+    transition: transform 0.1s;
+}
+
+.wrapper:hover {
+    transform: scale(1.1);
+}
+
+.description {
+    margin-bottom: 20px;
+}
+
+.link {
+    font-size: 45px;
+}

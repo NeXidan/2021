@@ -1,0 +1,12 @@
+.title {
+    padding: 20px;
+    border-radius: 16px;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    color: #ffce60;
+    background: #4aa892;
+    font-size: 75px;
+    margin: 60px auto 0;
+    width: 350px;
+    text-align: center;
+    white-space: nowrap;
+}
